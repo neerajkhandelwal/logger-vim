@@ -5,6 +5,8 @@ are saved.
 ### Usage:
 
 **Installation**
+
+If using Pathogen,
 ```
 cd ~/.vim/bundle
 git clone git@github.com:neerajkhandelwal/logger-vim.git
